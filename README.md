@@ -1,4 +1,4 @@
-# 🌐 Projeto 4 – Aprenser
+# 🌐 Projeto 4 
 
 🔗 [Acesse o site aqui](https://natipastre.github.io/Projeto-4---Front-End-Aprenser/)
 
