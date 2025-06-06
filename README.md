@@ -30,4 +30,6 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos sobre:
 - Estruturação de páginas com HTML semântico  
 - Estilização avançada com CSS (Flexbox, Grid, variáveis, animações)  
 - Responsividade e adaptação para diferentes dispositivos  
-- Organização de código para melhor legibilidade e manutenção  
+- Organização de código para melhor legibilidade e manutenção
+
+- LinkedIn https://www.linkedin.com/in/natalia-pastre/
